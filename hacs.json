@@ -1,0 +1,9 @@
+{
+    "name": "Test Integration",
+    "domain": [
+        "sensor"
+    ],
+    "iot_class": [
+        "Local Polling"
+    ]
+}
